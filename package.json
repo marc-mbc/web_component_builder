@@ -5,7 +5,7 @@
   "private": true,
   "version": "0.0.4",
   "main": "./lib/main",
-  "devDependencies": {
+  "dependencies": {
     "browserify": "~6.3.2",
     "browserify-shim": "~3.8.0",
     "vinyl-source-stream": "~1.0.0",
@@ -29,7 +29,7 @@
     "gulp-minify-html": "~0.1.7",
     "gulp-imagemin": "~2.0.0",
     "glob": "~4.2.1",
-    "gulp-uncss": "0.5.1",
+    "gulp-uncss": "~0.5.1",
     "gulp-scss-lint": "~0.1.4",
     "gulp-svgstore": "~3.0.0",
     "imagemin-pngquant": "~4.0.0",
