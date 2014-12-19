@@ -3,7 +3,7 @@
   "author": "Marc Blando",
   "email": "marc.blando@engrande.com",
   "private": true,
-  "version": "0.0.15",
+  "version": "0.0.16",
   "main": "./lib/main",
   "dependencies": {
     "browserify": "~6.3.2",
