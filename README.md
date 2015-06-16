@@ -1,4 +1,4 @@
-## Budgetplaces Web component builder
+## Web component builder
 
 This module exports a common set of tools and gulp tasks to build a web_component. 
 

@@ -1,7 +1,7 @@
 {
-  "name": "bdgt-web-component-builder",
+  "name": "mbc-web-component-builder",
   "author": "Marc Blando",
-  "email": "marc.blando@engrande.com",
+  "email": "marc.mbc@gmail.com",
   "private": true,
   "version": "0.0.18",
   "main": "./lib/main",
